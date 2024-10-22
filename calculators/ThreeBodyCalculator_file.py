@@ -1,5 +1,5 @@
 from utilities.body_file import Body
-from calculator_file import Calculator
+from calculators.calculator_file import Calculator
 from utilities.vector3_file import Vector3
 
 
